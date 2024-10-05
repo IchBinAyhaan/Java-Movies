@@ -1,0 +1,124 @@
+{
+  "movies": [
+    {
+      "title": "Ayhan",
+      "year": "2024-01-01",
+      "director": "Francis Ford Coppola",
+      "actors": [
+        "Marlon Brando",
+        "Al Pacino"
+      ],
+      "description": "An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son.",
+      "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/05/the-godfather-poster.jpeg",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "director": "Christopher Nolan",
+      "actors": [
+        "Christian Bale",
+        "Heath Ledger"
+      ],
+      "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+      "image": "https://m.media-amazon.com/images/S/pv-target-images/e9a43e647b2ca70e75a3c0af046c4dfdcd712380889779cbdc2c57d94ab63902.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "director": "Quentin Tarantino",
+      "actors": [
+        "John Travolta",
+        "Uma Thurman"
+      ],
+      "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Forrest Gump",
+      "year": 1994,
+      "director": "Robert Zemeckis",
+      "actors": [
+        "Tom Hanks",
+        "Robin Wright"
+      ],
+      "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal, and other historical events unfold through the perspective of an Alabama man.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Inception",
+      "year": 2010,
+      "director": "Christopher Nolan",
+      "actors": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt"
+      ],
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjExMjkwNTQ0Nl5BMl5BanBnXkFtZTcwNTY0OTk1Mw@@._V1_.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Fight Club",
+      "year": 1999,
+      "director": "David Fincher",
+      "actors": [
+        "Brad Pitt",
+        "Edward Norton"
+      ],
+      "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZPGAZtd0UeDLMpcACoX6lPFBXeScJnvO7yQ&s"
+    },
+    {
+      "id": "8",
+      "title": "The Matrix",
+      "year": 1999,
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "actors": [
+        "Keanu Reeves",
+        "Laurence Fishburne"
+      ],
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfSjSWOCaw5dnDL2GT1zFd9RMCgUGw5Q2Cfg&s"
+    },
+    {
+      "id": "9",
+      "title": "Goodfellas",
+      "year": 1990,
+      "director": "Martin Scorsese",
+      "actors": [
+        "Ray Liotta",
+        "Robert De Niro"
+      ],
+      "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY1NTUxMDMxNV5BMl5BanBnXkFtZTcwOTAyNDY3Mw@@._V1_.jpg"
+    },
+    {
+      "id": "11",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "director": "Peter Jackson",
+      "actors": [
+        "Elijah Wood",
+        "Viggo Mortensen"
+      ],
+      "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to save the future of Middle-earth.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Star Wars: Episode IV - A New Hope",
+      "year": 1977,
+      "director": "George Lucas",
+      "actors": [
+        "Mark Hamill",
+        "Harrison Ford"
+      ],
+      "description": "A rebel spaceship, pursued by an Imperial Star Destroyer, flees to the remote desert planet of Tatooine, where a young boy discovers his true heritage.",
+      "image": "https://m.media-amazon.com/images/I/911uAMIhbqL._AC_UF894,1000_QL80_.jpg"
+    }
+  ]
+}

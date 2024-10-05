@@ -1,0 +1,62 @@
+header {
+    height: 100px;
+    background-color: black;
+}
+
+header .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .navbar-logo {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+header .navbar-logo .navbar-logo-link{
+    color: red;
+
+}
+
+header .navbar-logo a {
+    text-decoration: none;
+    color: white;
+}
+
+header .header-list {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+header .header-list a {
+    text-decoration: none;
+    color: white;
+}
+
+header .header-list-items {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+header .header-list-items a {
+    text-decoration: none;
+    color: white;
+}
+
+header .header-list-items span {
+    color: white;
+}
+
+header .header-list-items .help {
+    color: gray;
+}
+
+header .header-list-items .account {
+    color: red;
+}
